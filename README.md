@@ -1,5 +1,4 @@
-<meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+
 <meta name="description" content="rayxel.github.io Coming soon, #raegnalizeisbestawesome"/>
 <meta name="author" content="raegnalize"/>
 <meta property="og:image" content="https://cdn.discordapp.com/avatars/712227021949763614/40778912186275dc22ff443391f45af4.webp?size=80">
